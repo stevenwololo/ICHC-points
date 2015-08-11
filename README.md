@@ -20,13 +20,13 @@ Add your username to the permaMods, it supports multiple users, seperated by a n
 In a tmux session, start the bot by running `bash run.normal.sh` or use `chmod u+x *.sh`  then `run.normal.sh`
 
 ##commands
-The bot takes the following commands, either via main chat or via PM, for readme purposes, everything after # is a comment to describe the command
+The bot takes the following commands, either via main chat or via PM, for readme purposes, everything after # is a comment to describe the command <br>
 
-!give username numberOfPoints (use negative value to take away points) #a mod may give points to a user
-!checkpoints username #checks the points of the given user
-!checkpoints #checks self points
-!removeuser username #resets the points of a given user
-!top5 #gives the top 5 users (highest scores)
+!give username numberOfPoints (use negative value to take away points) #a mod may give points to a user<br>
+!checkpoints username #checks the points of the given user<br>
+!checkpoints #checks self points<br>
+!removeuser username #resets the points of a given user <br>
+!top5 #gives the top 5 users (highest scores) <br>
 !last5 #gives the last 5 users (lowest scores)
 
 ##hosting
